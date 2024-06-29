@@ -1,0 +1,7 @@
+echo "# EXAMEN-TRANSVERSAL" >> README.md 
+git init 
+git add README.md 
+git commit -m "primer compromiso" 
+git rama -M main 
+git remoto agregar origen git@github.com:cristian-vidal-lorca/EXAMEN-TRANSVERSAL.git
+ git push -u origen principal
